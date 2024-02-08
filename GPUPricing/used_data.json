@@ -1,0 +1,464 @@
+[
+    {
+        "name": "GeForce RTX 4090",
+        "fps1": "151.6",
+        "fps2": "189.6",
+        "price": ""
+    },
+    {
+        "name": "Radeon RX 7900 XTX",
+        "fps1": "147.5",
+        "fps2": "187.2",
+        "price": ""
+    },
+    {
+        "name": "GeForce RTX 4080",
+        "fps1": "142.6",
+        "fps2": "184.4",
+        "price": ""
+    },
+    {
+        "name": "Radeon RX 7900 XT",
+        "fps1": "141.2",
+        "fps2": "183.0",
+        "price": ""
+    },
+    {
+        "name": "Radeon RX 6950 XT",
+        "fps1": "135.8",
+        "fps2": "187.4",
+        "price": ""
+    },
+    {
+        "name": "GeForce RTX 4070 Ti",
+        "fps1": "135.4",
+        "fps2": "180.9",
+        "price": ""
+    },
+    {
+        "name": "GeForce RTX 3090 Ti",
+        "fps1": "132.6",
+        "fps2": "178.8",
+        "price": ""
+    },
+    {
+        "name": "Radeon RX 6900 XT",
+        "fps1": "132.0",
+        "fps2": "185.3",
+        "price": ""
+    },
+    {
+        "name": "GeForce RTX 3090",
+        "fps1": "127.6",
+        "fps2": "175.8",
+        "price": ""
+    },
+    {
+        "name": "Radeon RX 6800 XT",
+        "fps1": "127.3",
+        "fps2": "181.2",
+        "price": "62000"
+    },
+    {
+        "name": "GeForce RTX 3080 Ti",
+        "fps1": "126.0",
+        "fps2": "173.4",
+        "price": ""
+    },
+    {
+        "name": "GeForce RTX 3080 12GB",
+        "fps1": "124.2",
+        "fps2": "170.9",
+        "price": ""
+    },
+    {
+        "name": "GeForce RTX 4070",
+        "fps1": "123.6",
+        "fps2": "176.3",
+        "price": "72000"
+    },
+    {
+        "name": "GeForce RTX 3080",
+        "fps1": "119.0",
+        "fps2": "169.2",
+        "price": "56000"
+    },
+    {
+        "name": "Radeon RX 6800",
+        "fps1": "116.3",
+        "fps2": "174.0",
+        "price": "53000"
+    },
+    {
+        "name": "GeForce RTX 3070 Ti",
+        "fps1": "105.8",
+        "fps2": "161.3",
+        "price": "46000"
+    },
+    {
+        "name": "Radeon RX 6750 XT",
+        "fps1": "104.2",
+        "fps2": "164.9",
+        "price": ""
+    },
+    {
+        "name": "GeForce RTX 4060 Ti",
+        "fps1": "101.7",
+        "fps2": "159.8",
+        "price": ""
+    },
+    {
+        "name": "GeForce RTX 3070",
+        "fps1": "100.5",
+        "fps2": "156.2",
+        "price": "42000"
+    },
+    {
+        "name": "Radeon RX 6700 XT",
+        "fps1": "100.3",
+        "fps2": "160.6",
+        "price": "30000"
+    },
+    {
+        "name": "Titan RTX",
+        "fps1": "99.3",
+        "fps2": "156.6",
+        "price": ""
+    },
+    {
+        "name": "GeForce RTX 2080 Ti",
+        "fps1": "98.1",
+        "fps2": "154.0",
+        "price": "43000"
+    },
+    {
+        "name": "GeForce RTX 3060 Ti",
+        "fps1": "92.3",
+        "fps2": "148.2",
+        "price": "35000"
+    },
+    {
+        "name": "GeForce RTX 2080 Super",
+        "fps1": "86.8",
+        "fps2": "141.7",
+        "price": ""
+    },
+    {
+        "name": "Radeon RX 6700 10GB",
+        "fps1": "86.2",
+        "fps2": "145.1",
+        "price": "34000"
+    },
+    {
+        "name": "GeForce RTX 4060",
+        "fps1": "84.9",
+        "fps2": "142.3",
+        "price": ""
+    },
+    {
+        "name": "GeForce RTX 2080",
+        "fps1": "83.6",
+        "fps2": "136.5",
+        "price": "32000"
+    },
+    {
+        "name": "Radeon RX 7600",
+        "fps1": "82.3",
+        "fps2": "143.9",
+        "price": ""
+    },
+    {
+        "name": "Radeon RX 6650 XT",
+        "fps1": "80.0",
+        "fps2": "138.2",
+        "price": ""
+    },
+    {
+        "name": "GeForce RTX 2070 Super",
+        "fps1": "78.3",
+        "fps2": "129.5",
+        "price": "30000"
+    },
+    {
+        "name": "Radeon RX 6600 XT",
+        "fps1": "78.1",
+        "fps2": "135.8",
+        "price": "28000"
+    },
+    {
+        "name": "Intel Arc A770 16GB",
+        "fps1": "76.8",
+        "fps2": "115.3",
+        "price": ""
+    },
+    {
+        "name": "Radeon RX 5700 XT",
+        "fps1": "73.3",
+        "fps2": "124.9",
+        "price": "26500"
+    },
+    {
+        "name": "Intel Arc A770 8GB",
+        "fps1": "73.2",
+        "fps2": "113.6",
+        "price": ""
+    },
+    {
+        "name": "GeForce RTX 3060",
+        "fps1": "73.0",
+        "fps2": "121.0",
+        "price": "32000"
+    },
+    {
+        "name": "GeForce RTX 2070",
+        "fps1": "70.3",
+        "fps2": "119.0",
+        "price": "27000"
+    },
+    {
+        "name": "Radeon VII",
+        "fps1": "69.5",
+        "fps2": "113.9",
+        "price": ""
+    },
+    {
+        "name": "Intel Arc A750",
+        "fps1": "68.0",
+        "fps2": "106.6",
+        "price": ""
+    },
+    {
+        "name": "Radeon RX 6600",
+        "fps1": "67.3",
+        "fps2": "117.7",
+        "price": "21500"
+    },
+    {
+        "name": "GeForce GTX 1080 Ti",
+        "fps1": "66.4",
+        "fps2": "110.2",
+        "price": ""
+    },
+    {
+        "name": "GeForce RTX 2060 Super",
+        "fps1": "66.2",
+        "fps2": "111.8",
+        "price": "25000"
+    },
+    {
+        "name": "Radeon RX 5700",
+        "fps1": "64.5",
+        "fps2": "110.8",
+        "price": "24000"
+    },
+    {
+        "name": "Radeon RX 5600 XT",
+        "fps1": "57.8",
+        "fps2": "100.0",
+        "price": "20500"
+    },
+    {
+        "name": "Radeon RX Vega 64",
+        "fps1": "56.7",
+        "fps2": "94.3",
+        "price": ""
+    },
+    {
+        "name": "GeForce RTX 2060",
+        "fps1": "55.9",
+        "fps2": "100.2",
+        "price": "20000"
+    },
+    {
+        "name": "GeForce GTX 1080",
+        "fps1": "53.0",
+        "fps2": "89.9",
+        "price": ""
+    },
+    {
+        "name": "GeForce RTX 3050",
+        "fps1": "51.9",
+        "fps2": "88.8",
+        "price": "22000"
+    },
+    {
+        "name": "GeForce GTX 1070 Ti",
+        "fps1": "51.1",
+        "fps2": "85.7",
+        "price": "20000"
+    },
+    {
+        "name": "Radeon RX Vega 56",
+        "fps1": "50.6",
+        "fps2": "84.2",
+        "price": "19000"
+    },
+    {
+        "name": "GeForce GTX 1660 Super",
+        "fps1": "45.3",
+        "fps2": "82.5",
+        "price": "17500"
+    },
+    {
+        "name": "GeForce GTX 1660 Ti",
+        "fps1": "45.0",
+        "fps2": "82.1",
+        "price": "17000"
+    },
+    {
+        "name": "GeForce GTX 1070",
+        "fps1": "44.7",
+        "fps2": "75.0",
+        "price": "18000"
+    },
+    {
+        "name": "GeForce GTX 1660",
+        "fps1": "40.3",
+        "fps2": "74.7",
+        "price": "15000"
+    },
+    {
+        "name": "Radeon RX 5500 XT 8GB",
+        "fps1": "39.7",
+        "fps2": "72.1",
+        "price": "16500"
+    },
+    {
+        "name": "Radeon RX 590",
+        "fps1": "39.3",
+        "fps2": "68.5",
+        "price": "14500"
+    },
+    {
+        "name": "GeForce GTX 980 Ti",
+        "fps1": "35.9",
+        "fps2": "62.6",
+        "price": "16000"
+    },
+    {
+        "name": "Radeon RX 580 8GB",
+        "fps1": "35.3",
+        "fps2": "61.7",
+        "price": "14000"
+    },
+    {
+        "name": "Radeon R9 Fury X",
+        "fps1": "35.2",
+        "fps2": "63.8",
+        "price": ""
+    },
+    {
+        "name": "GeForce GTX 1650 Super",
+        "fps1": "33.9",
+        "fps2": "67.7",
+        "price": "14500"
+    },
+    {
+        "name": "Radeon RX 5500 XT 4GB",
+        "fps1": "33.3",
+        "fps2": "66.8",
+        "price": "15000"
+    },
+    {
+        "name": "GeForce GTX 1060 6GB",
+        "fps1": "32.1",
+        "fps2": "57.7",
+        "price": "13500"
+    },
+    {
+        "name": "Radeon RX 6500 XT",
+        "fps1": "30.6",
+        "fps2": "65.8",
+        "price": "15500"
+    },
+    {
+        "name": "Radeon R9 390",
+        "fps1": "29.8",
+        "fps2": "51.1",
+        "price": ""
+    },
+    {
+        "name": "GeForce GTX 980",
+        "fps1": "28.9",
+        "fps2": "53.6",
+        "price": "13000"
+    },
+    {
+        "name": "GeForce GTX 1650 GDDR6",
+        "fps1": "28.8",
+        "fps2": "56.6",
+        "price": "12500"
+    },
+    {
+        "name": "Intel Arc A380",
+        "fps1": "28.4",
+        "fps2": "54.3",
+        "price": ""
+    },
+    {
+        "name": "Radeon RX 570 4GB",
+        "fps1": "28.1",
+        "fps2": "53.6",
+        "price": "10500"
+    },
+    {
+        "name": "GeForce GTX 1650",
+        "fps1": "27.0",
+        "fps2": "51.3",
+        "price": "12500"
+    },
+    {
+        "name": "GeForce GTX 970",
+        "fps1": "26.5",
+        "fps2": "49.0",
+        "price": "10500"
+    },
+    {
+        "name": "Radeon RX 6400",
+        "fps1": "24.1",
+        "fps2": "51.1",
+        "price": ""
+    },
+    {
+        "name": "GeForce GTX 1050 Ti",
+        "fps1": "19.8",
+        "fps2": "38.0",
+        "price": "8000"
+    },
+    {
+        "name": "GeForce GTX 1060 3GB",
+        "fps1": "",
+        "fps2": "52.5",
+        "price": "10000"
+    },
+    {
+        "name": "GeForce GTX 1630",
+        "fps1": "16.9",
+        "fps2": "33.8",
+        "price": ""
+    },
+    {
+        "name": "Radeon RX 560 4GB",
+        "fps1": "14.7",
+        "fps2": "31.7",
+        "price": "8000"
+    },
+    {
+        "name": "GeForce GTX 1050",
+        "fps1": "",
+        "fps2": "29.7",
+        "price": "6500"
+    },
+    {
+        "name": "Radeon RX 550 4GB",
+        "fps1": "",
+        "fps2": "19.5",
+        "price": "6500"
+    },
+    {
+        "name": "GeForce GT 1030",
+        "fps1": "",
+        "fps2": "14.6",
+        "price": "5000"
+    }
+]
